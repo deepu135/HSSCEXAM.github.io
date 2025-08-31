@@ -20,7 +20,7 @@ header{position:fixed;width:100%;top:0;left:0;background:#1976d2;
 .navbar a:hover{color:yellow;}
 .burger{display:none;flex-direction:column;cursor:pointer; justify-content: space-between;}
 .burger div{width:25px;height:3px;background:#fff;margin:4px;}
-.hero{padding-top:90px;text-align:center;background:url('image/sschome') no-repeat center/cover;height:100vh;color:#fff;}
+.hero{padding-top:90px;text-align:center;background:url('images/sschome') no-repeat center/cover;height:100vh;color:#fff;}
 .hero h1{font-size:28px;margin-bottom:15px;}
 .security{background:#fff;color:#1976d2;display:inline-block;padding:5px 15px;border-radius:20px;margin-bottom:15px;font-size:14px;}
 .info{max-width:800px;margin:auto;background:rgba(0,0,0,.4);padding:15px;border-radius:10px;}
@@ -67,4 +67,5 @@ footer span{color:yellow;}
   .burger{display:flex;}
   .photos-grid{grid-template-columns:1fr;}
 }
+
 
