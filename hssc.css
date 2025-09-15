@@ -1,4 +1,9 @@
-*{margin:0;padding:0;box-sizing:border-box;font-family:"Poppins",sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mozilla+Headline:wght@600&family=Mozilla+Text&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+
+
+*{margin:0;padding:0;box-sizing:border-box;font-family: "Mozilla Text", sans-serif;}
 body{background:#f9f9f9;color:#222;line-height:1.6;}
 header{position:fixed;width:100%;top:0;left:0;background:#1976d2;
   display:flex;justify-content:space-between;align-items:center;
@@ -67,6 +72,7 @@ footer span{color:yellow;}
   .burger{display:flex;}
   .photos-grid{grid-template-columns:1fr;}
 }
+
 
 
 
